@@ -2,6 +2,9 @@
 
 Scripts and notebooks, building the knowledge graph. For background information, see: [Knowledge Graph-basierte Forschungsdatenintegration in NFDI4Culture](https://zenodo.org/record/7748740)
 
+Google Doc with [discussion on the RDIG](https://docs.google.com/document/d/1YhT8DZqs4boTLPHFuQL4WXLe7M47f6m61ci0CclCafo/edit)
+Miro Board with [analysis of metadata](https://miro.com/app/board/uXjVMToHGSI=/)
+
 ## Potential Seed Datasources
 
 | Project Name              | Type       | Notes |
