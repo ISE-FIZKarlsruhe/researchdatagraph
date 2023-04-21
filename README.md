@@ -7,14 +7,14 @@ Miro Board with [analysis of metadata](https://miro.com/app/board/uXjVMToHGSI=/)
 
 ## Potential Seed Datasources
 
-| Project Name              | Type       | Notes                     |
-| ------------------------- | ---------- | ------------------------- |
-| Political Flyers          | RDF/SPARQL |                           |
-| Linked Stage Graph        | RDF/SPARQL |                           |
-| CVMA                      | CGIF       |                           |
-| Badisch Landesmuseum      | RDF/SPARQL |                           |
-| WissKI                    |            |                           |
-| DDB EDM                   | EDM        |                           |
-| Marburg LIDO files        | LIDO       |                           |
-| Baroque ceiling paintings | Wikibase   |                           |
-| RADAR Repository          | OAI-PMH    | [📓](RADAR4Culture.ipynb) |
+| Project Name              | Type       | Notes         |
+| ------------------------- | ---------- | ------------- |
+| Political Flyers          | RDF/SPARQL |               |
+| Linked Stage Graph        | RDF/SPARQL |               |
+| CVMA                      | CGIF       |               |
+| Badisch Landesmuseum      | RDF/SPARQL |               |
+| WissKI                    |            |               |
+| DDB EDM                   | EDM        |               |
+| Marburg LIDO files        | LIDO       |               |
+| Baroque ceiling paintings | Wikibase   |               |
+| RADAR Repository          | OAI-PMH    | [📓](/RADAR/) |
