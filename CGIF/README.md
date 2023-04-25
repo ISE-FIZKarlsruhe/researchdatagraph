@@ -13,5 +13,3 @@ Here is [a notebook exploring some of the CVMA data](cvma.ipynb)
 ## Related Links
 
 https://bioschemas.org/
-
-The dataset is available in the current NFDI4Culture Portal, and can be queried. In this repo we have placed a copy of the [first data dump](cvma.ttl.gz), and here is [some analysis and recommendations](cvma.ipynb).
