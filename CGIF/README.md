@@ -10,6 +10,14 @@ This section contains some testing of the initial harvested datasets, and mappin
 
 Here is [a notebook exploring some of the CVMA data](cvma.ipynb)
 
+## Summary of suggestions
+
+- Make inDefinedTermSet property in the LDJSON an IRI, eg. "schema:inDefinedTermSet": {"@id": "https://iconclass.org/"}
+
+- Add more links to IRIs, not strings. For example also for licenses, and placenames.
+
+- Add links to the "content" metadata, using a property to be decided upon.
+
 ## Related Links
 
 https://bioschemas.org/
