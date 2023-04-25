@@ -6,4 +6,12 @@ For the federated acquisition of data for the Culture Knowledge Graph we propose
 
 ## Testing the first version
 
-This section contains some testing of the initial harvested datasets, and mappings to a proposed storage in the Research Data Graph.
+This section contains some testing of the initial harvested datasets, and mappings to a proposed storage in the Research Data Graph. The first dataset to become available is the [CVMA](https://corpusvitrearum.de/)
+
+Here is [a notebook exploring some of the CVMA data](cvma.ipynb)
+
+## Related Links
+
+https://bioschemas.org/
+
+The dataset is available in the current NFDI4Culture Portal, and can be queried. In this repo we have placed a copy of the [first data dump](cvma.ttl.gz), and here is [some analysis and recommendations](cvma.ipynb).
