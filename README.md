@@ -18,3 +18,18 @@ Miro Board with [analysis of metadata](https://miro.com/app/board/uXjVMToHGSI=/)
 | Marburg LIDO files          | LIDO           |
 | Baroque ceiling paintings   | Wikibase       |
 | [RADAR](/RADAR/) Repository | OAI-PMH        |
+
+# Ingest and ETL pipeline
+
+There is currently no procedure in place for how to harvest and ingest data from the different datasets.
+In this section we need to add some scripts and solidify the current informal discussions around this topic.
+
+Open topics to seed the discussion:
+
+- pull vs push models.
+
+- update frequencies
+
+- portal-steered data discovery (via ISIL codes?)
+
+- example scripts for ingest/transformation
