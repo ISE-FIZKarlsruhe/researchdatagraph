@@ -21,3 +21,5 @@ Here is [a notebook exploring some of the CVMA data](cvma.ipynb)
 ## Related Links
 
 https://bioschemas.org/
+
+https://pro.europeana.eu/page/edm-documentation
