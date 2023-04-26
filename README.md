@@ -7,17 +7,17 @@ Miro Board with [analysis of metadata](https://miro.com/app/board/uXjVMToHGSI=/)
 
 ## Potential Seed Datasources
 
-| Project Name                | Type           |
-| --------------------------- | -------------- |
-| Political Flyers            | RDF/SPARQL     |
-| Linked Stage Graph          | RDF/SPARQL     |
-| CVMA                        | [CGIF](/CGIF/) |
-| Badisch Landesmuseum        | RDF/SPARQL     |
-| WissKI                      |                |
-| DDB EDM                     | EDM            |
-| Marburg LIDO files          | LIDO           |
-| Baroque ceiling paintings   | Wikibase       |
-| [RADAR](/RADAR/) Repository | OAI-PMH        |
+| Project Name                 | Type       |
+| ---------------------------- | ---------- |
+| Political Flyers             | RDF/SPARQL |
+| [Linked Stage Graph](/slod/) | RDF/SPARQL |
+| [CVMA](/CGIF/)               | CGIF       |
+| Badisch Landesmuseum         | RDF/SPARQL |
+| WissKI                       |            |
+| DDB EDM                      | EDM        |
+| Marburg LIDO files           | LIDO       |
+| Baroque ceiling paintings    | Wikibase   |
+| [RADAR](/RADAR/) Repository  | OAI-PMH    |
 
 # Ingest and ETL pipeline
 
