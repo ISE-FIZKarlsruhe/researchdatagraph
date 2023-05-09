@@ -34,3 +34,7 @@ Open topics to seed the discussion:
 - portal-steered data discovery (via ISIL codes?)
 
 - example scripts for ingest/transformation
+
+## Related Links 
+
+[WikiProject NFDI](https://www.wikidata.org/wiki/Wikidata:WikiProject_NFDI)
