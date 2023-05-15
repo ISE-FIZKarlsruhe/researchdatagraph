@@ -15,7 +15,7 @@ Scripts and notebooks, building the [knowledge graph](https://docs.nfdi4culture.
 | [CVMA](/CGIF/)               | CGIF        |
 | Badisch Landesmuseum         | RDF/SPARQL  |
 | WissKI                       |             |
-| DDB EDM                      | EDM         |
+| [DDB](/DDB/)                 | EDM         |
 | [Marburg](/marburg/)         | LIDO/CGIF ? |
 | [Wikibase](/wikibase/)       | Wikibase    |
 | [RADAR](/RADAR/) Repository  | OAI-PMH     |
@@ -35,6 +35,6 @@ Open topics to seed the discussion:
 
 - example scripts for ingest/transformation
 
-## Related Links 
+## Related Links
 
 [WikiProject NFDI](https://www.wikidata.org/wiki/Wikidata:WikiProject_NFDI)
