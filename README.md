@@ -34,3 +34,4 @@ Open topics to seed the discussion:
 - portal-steered data discovery (via ISIL codes?)
 
 - example scripts for ingest/transformation
+  - [Hydra Scraper](https://gitlab.rlp.net/adwmainz/digicademy/cvma/hydra-scraper): generic command-line tool; originally produced to test CVMA data; can compile dumps of CGIF lists (and other Hydra-paginated APIs), produce beacons of all individual resources based on those lists, and compile dumps of those resources; 0.7.1 will be the debugged version
