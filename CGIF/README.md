@@ -10,6 +10,8 @@ This section contains some testing of the initial harvested datasets, and mappin
 
 Here is [a notebook exploring some of the CVMA data](cvma.ipynb)
 
+Nice view via the schema.org validator of an entry for the CVMA: https://validator.schema.org/#url=https%3A%2F%2Fcorpusvitrearum.de%2Fid%2FF3436
+
 ## Summary of suggestions
 
 - Make inDefinedTermSet property in the LDJSON an IRI, eg. "schema:inDefinedTermSet": {"@id": "https://iconclass.org/"}
