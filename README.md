@@ -1,5 +1,11 @@
 # NFDI4Culture Research Data Graph
 
+## RDG Barnraising September 2023
+
+See: https://docs.google.com/document/d/1iVftXSV_5lcHP9E5Hl5kxaaXXVjyLdNYVMLr5G1z0xo/edit
+
+---
+
 Scripts and notebooks, building the [knowledge graph](https://docs.nfdi4culture.de/ta7-report-2022/services-and-resources/knowledge-graph). For background information, see: [Knowledge Graph-basierte Forschungsdatenintegration in NFDI4Culture](https://zenodo.org/record/7748740)
 
 [Google Doc with discussion on the RDIG](https://docs.google.com/document/d/1YhT8DZqs4boTLPHFuQL4WXLe7M47f6m61ci0CclCafo/edit)
