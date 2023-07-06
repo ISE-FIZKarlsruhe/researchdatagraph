@@ -5,7 +5,7 @@ The problem is, which ones? Do we use Handles, DOIS, URNs, Purls, ARKS or plain 
 
 One of the options we are investigating for NFDI4Culture, is using [ARK Identifiers](https://arks.org/)
 
-We have a NAAN registred for NFDI4Culture: **ark:/60538/** 🥳
+We have a NAAN registred for NFDI4Culture: [ark:/60538/](https://n2t.net/ark://60538) 🥳
 
 The "raw" functionality of ARK identifiers and the n2t.net resolver is only to redirect identifiers to their destinations, and not to persist metadata. This is one of the downsides compared to a system like the DOI infrastructure.
 _But_ can we leverage the Research Data Graph to help in this regard? Can we save metadata for minted PIDs in the RDG, and serve them up as (for example) .ttl files when the resolver is queried via content-negotiation? (and with a well-know prefix, to serve it up as some human-readable form)
