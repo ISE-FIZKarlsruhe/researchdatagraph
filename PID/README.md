@@ -20,7 +20,7 @@ Some example code to flesh out this idea to follow... 😎
 
 [PID Network DE](https://www.pid-network.de/pids/forschungsdaten)
 
-[Forum Data Publication and Availability #5: Persistent Identifiers](https://nfdi4culture.de/events/forum-data-publication-and-availability-5-persistent-identifiers)
+[Forum Data Publication and Availability #5: Persistent Identifiers](https://nfdi4culture.de/events/forum-data-publication-and-availability-5-persistent-identifiers) : [Report](https://nfdi4culture.de/news/forum-data-publication-and-availability-5-persistent-identifiers-report.html)
 
 [TIB PID Competence Centre](https://projects.tib.eu/pid-service/en/pid-competence-center/projects-and-publications/)
 
