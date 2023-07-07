@@ -10,6 +10,12 @@ We have a NAAN registred for NFDI4Culture: [ark:/60538/](https://n2t.net/ark://6
 The "raw" functionality of ARK identifiers and the n2t.net resolver is only to redirect identifiers to their destinations, and not to persist metadata. This is one of the downsides compared to a system like the DOI infrastructure.
 _But_ can we leverage the Research Data Graph to help in this regard? Can we save metadata for minted PIDs in the RDG, and serve them up as (for example) .ttl files when the resolver is queried via content-negotiation? (and with a well-know prefix, to serve it up as some human-readable form)
 
+## Why not just use DOIs from Datacite?
+
+Flexibility, and volumes. We want to be able to generate hundreds of thousands, or even millions of PIDs, and flexibly re-direct, slice and dice them, without being subject to a third-party provider. **at this stage of experiementation**
+
+Of course the whole idea of a PID is to be _persistent_ it seems like anathema to want to modify anything. But bear with me, it will become clear soon enough when we do the first demos.
+
 Some example code to flesh out this idea to follow... 😎
 
 ## Misc Links
