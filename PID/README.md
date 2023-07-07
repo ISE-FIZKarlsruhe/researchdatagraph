@@ -14,6 +14,8 @@ Some example code to flesh out this idea to follow... 😎
 
 ## Misc Links
 
+[PID Forum](https://pidforum.org/)
+
 [Concept for Setting up the Persistent Identifier Services Working Group in the NFDI Section "Common Infrastructures"](https://zenodo.org/record/6507760)
 
 [Workshop on PIDs within NFDI](https://zenodo.org/record/7635905)
