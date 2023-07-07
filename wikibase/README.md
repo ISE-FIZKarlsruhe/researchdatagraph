@@ -31,3 +31,7 @@ What are the [Iconclass codes](https://epoz.org/shmarql?e=https://query.semantic
 Which leads us to, [a painting](https://epoz.org/shmarql?e=https://query.semantic-kompakkt.de/proxy/wdqs/bigdata/namespace/wdq/sparql&s=%3Chttps%3A//wikibase.semantic-kompakkt.de/entity/Q343%3E):
 
 and finally to some [human-made objects](https://epoz.org/shmarql?e=https://query.semantic-kompakkt.de/proxy/wdqs/bigdata/namespace/wdq/sparql&o=%3Chttps%3A//wikibase.semantic-kompakkt.de/entity/Q5%3E&s=%3Fs&p=%3Chttps%3A//wikibase.semantic-kompakkt.de/prop/direct/P1%3E) 😅
+
+## Mechanisms
+
+Can we generate per-page embedded CGIF schema:org metadata in stead of harvesting from the triplestore?
