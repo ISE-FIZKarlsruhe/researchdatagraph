@@ -14,17 +14,19 @@ Scripts and notebooks, building the [knowledge graph](https://docs.nfdi4culture.
 
 ## Potential Seed Datasources
 
-| Project Name                 | Type        |
-| ---------------------------- | ----------- |
-| Political Flyers             | RDF/SPARQL  |
-| [Linked Stage Graph](/slod/) | RDF/SPARQL  |
-| [CVMA](/CGIF/)               | CGIF        |
-| Badisch Landesmuseum         | RDF/SPARQL  |
-| WissKI                       |             |
-| [DDB](/DDB/)                 | EDM         |
-| [Marburg](/marburg/)         | LIDO/CGIF ? |
-| [Wikibase](/wikibase/)       | Wikibase    |
-| [RADAR](/RADAR/) Repository  | OAI-PMH     |
+| Project Name                    | Type        |
+| ------------------------------- | ----------- |
+| Political Flyers                | RDF/SPARQL  |
+| [Linked Stage Graph](/slod/)    | RDF/SPARQL  |
+| [CVMA](/CGIF/)                  | CGIF        |
+| Badisch Landesmuseum            | RDF/SPARQL  |
+| WissKI                          |             |
+| [DDB](/DDB/)                    | EDM         |
+| [Marburg](/marburg/)            | LIDO/CGIF ? |
+| [Wikibase](/wikibase/)          | Wikibase    |
+| [RADAR](/RADAR/) Repository     | OAI-PMH     |
+| [Univ Heidelberg](/heidelberg/) | OAI-PMH/RDF |
+| [RISM](/rism/)                  | RDF/SPARQL  |
 
 # Ingest and ETL pipeline
 
