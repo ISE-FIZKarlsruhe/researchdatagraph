@@ -27,6 +27,7 @@ Scripts and notebooks, building the [knowledge graph](https://docs.nfdi4culture.
 | [RADAR](/RADAR/) Repository     | OAI-PMH     |
 | [Univ Heidelberg](/heidelberg/) | OAI-PMH/RDF |
 | [RISM](/rism/)                  | RDF/SPARQL  |
+| [MiMoText](/mimotext/)          | Wikibase    |
 
 # Ingest and ETL pipeline
 
