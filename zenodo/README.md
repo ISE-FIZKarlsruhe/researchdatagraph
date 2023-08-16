@@ -9,7 +9,7 @@ While this question is focussed on a different subject are, it will also be rele
 ## Discussion
 
 As a start, what is the best structured way to get metadata out in NFDICore compliant way? Looks like the JSON-LD is a good candidate.
-You can click on the link in the page, and copy-paste the snippet, but is it also available as a content-negotaied link?
+You can click on the link in the page, and copy-paste the snippet, but is it also available as a content-negotiated link?
 
 Once you have the JSON-LD, it can be converted to a more readable Turtle.
 
