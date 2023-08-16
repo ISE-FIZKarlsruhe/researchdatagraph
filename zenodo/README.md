@@ -4,7 +4,7 @@ This section is prompted by our colleagues in the [MatWerk](https://nfdi-matwerk
 
 How can we use datasets like [this](https://zenodo.org/search?page=1&size=20&q=4039531) or [this](https://zenodo.org/search?page=1&size=20&q=4064861) in a CGIF format?
 
-While this question is focussed on a different subject are, it will also be relevant once cultural data is deposited in Zenodo.
+While this question is focussed on a different subject area, it will also be relevant once cultural data is deposited in Zenodo.
 
 ## Discussion
 
