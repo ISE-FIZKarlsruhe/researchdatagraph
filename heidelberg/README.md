@@ -19,9 +19,8 @@ Consider these two records:
 
 [1832908b-d9a8-4def-a184-d442b56e4087](https://heidicon.ub.uni-heidelberg.de/api/v1/plugin/base/oai/oai?verb=GetRecord&metadataPrefix=lido&identifier=oai:heidicon.ub.uni-heidelberg.de:1832908b-d9a8-4def-a184-d442b56e4087)
 
-and 
+and
 
 [03716d2c-8b8e-4316-a5c7-b35b24ad969e](https://heidicon.ub.uni-heidelberg.de/api/v1/plugin/base/oai/oai?verb=GetRecord&metadataPrefix=lido&identifier=oai:heidicon.ub.uni-heidelberg.de:03716d2c-8b8e-4316-a5c7-b35b24ad969e)
 
 They are different OAI IDs, but [both refer](https://nfdi.fiz-karlsruhe.de/shmarql?e=_local_&p=%3Fp&o=%3Chttps%3A//heidicon.ub.uni-heidelberg.de/detail/741164%3E) to [the same page](https://heidicon.ub.uni-heidelberg.de/detail/741164) - the LIDO files are also almost exactly the same.
-
