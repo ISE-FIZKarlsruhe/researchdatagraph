@@ -8,4 +8,4 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: First
-        run: echo "Test" && date
+        run: pwd
