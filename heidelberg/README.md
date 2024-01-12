@@ -9,6 +9,8 @@ Also, RDF (including persistent URIs), as e.g. here: https://katalog.ub.uni-heid
 Looks like the MODS has the most useful metadata, the RDF output is very sparse.
 Probably feasible to use the [BEACON interface](https://katalog.ub.uni-heidelberg.de/beacon.txt) combined with MODS to make a useful extract.
 
+See the [LOD page](https://www.ub.uni-heidelberg.de/helios/kataloge/lod.html)
+
 ---
 
 ## What kind of IDs should we choose to map uniqueness?
