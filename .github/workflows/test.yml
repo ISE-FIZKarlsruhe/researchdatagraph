@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  runs-on: self-hosted
-  steps:
-    - name: First
-      run: echo "Test" && date
-
+  first-test:
+    runs-on: self-hosted
+    steps:
+      - name: First
+        run: echo "Test" && date
