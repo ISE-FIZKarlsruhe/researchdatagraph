@@ -7,5 +7,7 @@ jobs:
   first-test:
     runs-on: self-hosted
     steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v2
       - name: First
         run: pwd
