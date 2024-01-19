@@ -13,4 +13,4 @@ jobs:
         run: pwd
       - name: Do a volume mount
         run: |
-          docker run -v /home/nfdi4culture/data/harvest/oai/heidelberg:/data -e DEBUG=1 -e OUTPATH=/data -e URI=https://heidicon.ub.uni-heidelberg.de/api/v1/plugin/base/oai/oai -e METADATA=lido -e MAX_COUNT=500 ghcr.io/ise-fizkarlsruhe/rdg_harvest_oaipmh:main
+          docker run -v /home/nfdi4culture/data/harvest/oai/heidelberg:/data -e OUTPATH=/data -e URI=https://heidicon.ub.uni-heidelberg.de/api/v1/plugin/base/oai/oai -e METADATA=lido -e MAX_COUNT=500 ghcr.io/ise-fizkarlsruhe/rdg_harvest_oaipmh:main
