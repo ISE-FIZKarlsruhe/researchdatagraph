@@ -4,7 +4,7 @@
 
 The Research Data Graph (RDG) is a component of the [NFDI4Culture Consortium](https://nfdi4culture.de/) for Research Data on Material and Immaterial Cultural Heritage.
 
-This repository contains the code and configuration to maintain a large knowledge graph, based on the RDF data model.
+This repository contains the code and configuration to maintain a large knowledge graph, based on the [RDF data model](https://en.wikipedia.org/wiki/Resource_Description_Framework).
 
 ## Contributors
 
