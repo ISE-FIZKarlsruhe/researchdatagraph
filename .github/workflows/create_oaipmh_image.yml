@@ -33,4 +33,4 @@ jobs:
         with:
           context: src/harvest/oaipmh/
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/rdg_harvest_oaipmh:${{ steps.extract_branch.outputs.branch }}
+          tags: ghcr.io/ise-fizkarlsruhe/rdg_harvest_oaipmh:${{ steps.extract_branch.outputs.branch }}
