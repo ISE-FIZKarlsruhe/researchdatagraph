@@ -57,6 +57,7 @@ def main():
         if r.status_code != 200:
             raise Exception(f"{r.text} {r.status_code}")
         buf, token = parse(r.text)
+    logging.info(f"Done with {URI} {METADATA} in {OUTPATH}")
 
 
 if __name__ == "__main__":
