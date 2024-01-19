@@ -11,3 +11,6 @@ jobs:
         uses: actions/checkout@v2
       - name: First
         run: pwd
+      - name: Do a volume mount
+        run: |
+          docker run -v ${{ github.workspace }}/RDG_DATA/:/data -e DEBUG=1 -e OUTPATH=/data -e URI=https://heidicon.ub.uni-heidelberg.de/api/v1/plugin/base/oai/oai -e METADATA=lido -e MAX_COUNT=500 ghcr.io/ise-fizkarlsruhe/rdg_harvest_oaipmh:main
