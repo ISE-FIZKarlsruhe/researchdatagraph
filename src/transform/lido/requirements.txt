@@ -1,0 +1,2 @@
+pyoxigraph==0.3.19
+lidolator==0.1
