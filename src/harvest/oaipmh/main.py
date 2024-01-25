@@ -53,7 +53,10 @@ def main():
                 logging.debug(f"Count {count} is >= {MAX_COUNT}, stopping.")
                 token = None
                 break
-        r = httpx.get(f"{URI}?verb=ListRecords&resumptionToken={token}", timeout=60)
+        r = httpx.get(
+            f"{URI}?verb=ListRecords&metadataPrefix={METADATA}&resumptionToken={token}",
+            timeout=60,
+        )
         if r.status_code != 200:
             raise Exception(f"{r.text} {r.status_code}")
         buf, token = parse(r.text)
