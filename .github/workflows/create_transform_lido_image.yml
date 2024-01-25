@@ -1,0 +1,36 @@
+name: Create LIDO transform Docker Image
+
+on:
+  push:
+    paths:
+      - "src/transform/lido/**"
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//-/g')"
+        id: extract_branch
+
+      - name: Build and Push Docker Image
+        uses: docker/build-push-action@v3
+        with:
+          context: src/transform/lido/
+          push: true
+          tags: ghcr.io/ise-fizkarlsruhe/rdg_transform_lido:${{ steps.extract_branch.outputs.branch }}
