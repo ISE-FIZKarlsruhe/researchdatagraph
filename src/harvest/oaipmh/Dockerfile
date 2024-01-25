@@ -1,6 +1,6 @@
 FROM python:3.12
 
-RUN useradd -d /app -r -s /bin/bash -U -G sudo -u 1006 nfdi4culture
+RUN groupadd --gid 1006 nfdi4culture && useradd -d /app -r -s /bin/bash -U -u 1006 nfdi4culture
 USER nfdi4culture
 
 WORKDIR /app
