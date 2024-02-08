@@ -1,8 +1,5 @@
 FROM python:3.12
 
-RUN groupadd --gid 1006 nfdi4culture && useradd -d /app -r -s /bin/bash -g 1006 -u 1006 nfdi4culture
-USER nfdi4culture
-
 WORKDIR /app
 COPY main.py .
 
