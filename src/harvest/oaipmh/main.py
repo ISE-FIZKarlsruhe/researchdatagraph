@@ -54,7 +54,7 @@ def main():
                 token = None
                 break
         r = httpx.get(
-            f"{URI}?verb=ListRecords&metadataPrefix={METADATA}&resumptionToken={token}",
+            f"{URI}?verb=ListRecords&resumptionToken={token}",
             timeout=60,
         )
         if r.status_code != 200:
